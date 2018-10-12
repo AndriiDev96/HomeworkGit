@@ -1,4 +1,7 @@
-# Step by step
+ **my result**
+ https://github.com/AndriiDev96/HomeworkGit/blob/cr_text/index.html
+
+# SSH key
 
 
 **1. Creaating an SSH key. For this you need.**
@@ -50,30 +53,55 @@ ________
 **Steps**
 
 -create a repository **HomeworkGit**
+
 -create a local repository **HomeworkGitGithub**
+
 -git clone git@github.com:AndriiDev96/HomeworkGit.git
+
 -echo "" > index.html
+
 -echo "" > style.css
+
 -git status
+
 -git add .
+
 -git commit -m "Implement two files index.html and style.css"
+
 -code .
+
 -git status -> modified: index.html
+
 -git add .
+
 -git commit -m "Add code in file index.html"
+
 -git push
+
 -git checkout -b developer
+
 -git branch *developer
+
 -git -am "Supplemented the files index and style"
+
 .
+
 .
+
 .
--git commit -am "Location of the text in the center"
+
+-git commit -am "Location of the text in the center
+"
 -git push --set-upstream origin developer
+
 **-did pull request**
+
 -git checkout master
+
 -git branch *master
+
 -git pull
+
 
 # Screenshot Git Bash
 
