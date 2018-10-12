@@ -1,6 +1,3 @@
- **my result**
- https://github.com/AndriiDev96/HomeworkGit/blob/cr_text/index.html
-
 # SSH key
 
 
